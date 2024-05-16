@@ -18,7 +18,7 @@
 # Дистрибутивы:
 ***
 
-- Grafana 11 version for Windows [a link](https://disk.yandex.ru/d/HUIDbnzgzHFxFQ)
-- nssm 2.24 version for Windows [a link](https://disk.yandex.ru/d/mBtEzqwd_8agTQ)
-- prometheus 2.52 version for Windows [a link](https://github.com/prometheus/prometheus/releases/download/v2.52.0/prometheus-2.52.0.windows-amd64.zip)
+- Grafana 11 version for Windows [скачать](https://disk.yandex.ru/d/HUIDbnzgzHFxFQ)
+- nssm 2.24 version for Windows [скачать](https://disk.yandex.ru/d/mBtEzqwd_8agTQ)
+- prometheus 2.52 version for Windows [скачать](https://github.com/prometheus/prometheus/releases/download/v2.52.0/prometheus-2.52.0.windows-amd64.zip)
 
